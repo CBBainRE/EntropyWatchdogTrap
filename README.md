@@ -92,7 +92,6 @@ forge create src/SignalBeaconReceiver.sol:SignalBeaconReceiver \
 
 Update `drosera.toml`:
 
-[traps.heartbeat]
 
 path = "out/EntropyWatchdogTrap.sol/EntropyWatchdogTrap.json"
 response_contract = "0x62Dd5A86bF1053F37F8F447e9914F14Ce8F883aB"
