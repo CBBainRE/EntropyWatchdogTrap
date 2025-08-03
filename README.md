@@ -1,4 +1,4 @@
-# EntropyWatchdogTrap
+# EntropyWatchdogTrap.sol
 
 ## Objective
 Design and deploy a Drosera-compatible smart contract that:
